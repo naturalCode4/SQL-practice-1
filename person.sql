@@ -91,3 +91,6 @@ WHERE favorite_color IN('orange', 'green', 'light blue')
 SELECT *
 FROM person 
 WHERE favorite_color IN('yellow','purple') 
+
+
+-- testing does this save?
